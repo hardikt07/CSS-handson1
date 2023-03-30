@@ -1,0 +1,42 @@
+h1{
+    color:red;
+}
+
+ol{
+    color:brown;
+}
+li{
+    line-height: 40px;
+}
+
+h2{
+    font-style: italic;
+    color:red;
+}
+.lt{
+    text-decoration: line-through;
+}
+.bg{
+    
+    background-color: yellow;
+}
+#fnt{
+    font-style: italic;
+    text-decoration: underline;
+}
+.con2{
+    letter-spacing: 10px;
+    color: brown;
+    font-style: bold;
+
+}
+.pera{
+    color:brown; 
+    font-style: bold;
+}
+a{
+    background-color: yellow;
+    font-style: italic;
+    color: red;
+    
+}
